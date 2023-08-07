@@ -12,6 +12,7 @@ If it's not installed, install nvm using this command:
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 
 ```
+####Open a new terminal
 
 Once nvm is installed, check your current version of Node by running the following command:
 ```
