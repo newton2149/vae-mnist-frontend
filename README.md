@@ -20,7 +20,7 @@ node -v
 ```
 Then update your version of Node using the following command:  
 ```
-nvm install node --reinstall-packages-from=node
+nvm install node
 
 ```
 And finally, verify that your update is complete by rechecking your Node version:  
